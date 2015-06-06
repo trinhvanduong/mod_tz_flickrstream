@@ -1,0 +1,9 @@
+#tz-flick{
+    margin-left: 0;
+    margin-right: 0;
+}
+#tz-flick > li {
+    display: inline-block;
+    list-style: outside none none;
+    margin: 6px;
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="1.7" client="site" method="upgrade">
+	<name>TZ FLICK STREAM </name>
+	<author>Sunland .,JSC</author>
+	<creationDate>March 2012</creationDate>
+	<copyright>copyright Copyright (C) 2011 Sunland .,JSC. All Rights Reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>info@templaza.com</authorEmail>
+	<authorUrl>http://www.TemPlaza.com</authorUrl>
+	<version>1.0</version>
+	<description>FLICK STREAM module  Technical Support:  Forum - http://www.TemPlaza.com/forum/</description>
+	<files>
+		<filename module="mod_tz_flickstream">mod_tz_flickstream.php</filename>
+ 		<filename>index.html</filename>
+		<filename>mod_tz_flickstream.xml</filename>
+        <folder>tmpl</folder>        
+        <folder>images</folder>        
+        <folder>css</folder>
+        <folder>js</folder>
+	</files>
+	 <languages>
+        <language tag="en-GB">en-GB.mod_tz_flickstream.ini</language>
+        <language tag="en-GB">en-GB.mod_tz_flickstream.sys.ini</language>
+    </languages>
+	<config>
+        <fields name="params">
+            <fieldset name="basic">
+	
+				<field name="title" type="text" default="FLICK STREAM" label="JGLOBAL_TITLE"
+                       description="MOD_TZ_FLICKSTREAM_TITLE_DESC" />
+				<field name="count" type="text" default="16" label="MOD_TZ_FLICKSTREAM_COUNT_LABEL"
+                       description="MOD_TZ_FLICKSTREAM_COUNT_DESC" />
+				<field name="yourstream" type="text" default="36587311@N08"
+                       label="MOD_TZ_FLICKSTREAM_YOUR_ID_LABEL"/>
+	
+			</fieldset>
+
+        </fields>
+    </config>
+
+</extension>
