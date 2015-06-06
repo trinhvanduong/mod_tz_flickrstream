@@ -4,3 +4,4 @@ TZ FlickrStream is a Joomla! Extension designed by Templaza. It is a module type
 
 Demo Link: http://www.templaza.com/tools/tz-extensions/index.php/flickr-stream.html
 Document Link: http://www.templaza.com/manuals/how-to-use-tz-flickrstream/
+
