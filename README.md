@@ -6,5 +6,9 @@ Documentation Link: http://www.templaza.com/manuals/how-to-use-tz-flickrstream/
 
 Demo Link: http://www.templaza.com/tools/tz-extensions/index.php/flickr-stream.html
 
+*** Changelog ***
 
+06/25/2015 - 1.1
+
+	Update PrettyPhoto script version 3.1.6
 

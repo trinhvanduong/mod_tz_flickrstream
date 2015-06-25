@@ -7,7 +7,7 @@
 	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<authorEmail>info@templaza.com</authorEmail>
 	<authorUrl>http://www.TemPlaza.com</authorUrl>
-	<version>1.0</version>
+	<version>1.1</version>
 	<description>FLICK STREAM module  Technical Support:  Forum - http://www.TemPlaza.com/forum/</description>
 	<files>
 		<filename module="mod_tz_flickstream">mod_tz_flickstream.php</filename>
