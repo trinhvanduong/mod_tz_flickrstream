@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<updates>
+    <update>
+        <name>TZFlickStream</name>
+        <description>TZ Flick Stream Module</description>
+        <element>mod_tz_flickstream</element>
+        <type>module</type>
+        <version>1.1</version>
+
+        <infourl title="https://github.com/trinhvanduong/mod_tz_flickrstream">https://github.com/trinhvanduong/mod_tz_flickrstream</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">
+                https://github.com/trinhvanduong/mod_tz_flickrstream/archive/v1.0.zip
+            </downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <section>Updates</section>
+        <maintainer>TZFlickStream</maintainer>
+        <maintainerurl>https://github.com/trinhvanduong/mod_tz_flickrstream</maintainerurl>
+        <targetplatform name="joomla" version="3.[012345]"/>
+    </update>
+    <update>
+        <name>TZFlickStream</name>
+        <description>TZ Flick Stream Module</description>
+        <element>mod_tz_flickstream</element>
+        <type>module</type>
+        <version>1.0</version>
+
+        <infourl title="https://github.com/trinhvanduong/mod_tz_flickrstream">https://github.com/trinhvanduong/mod_tz_flickrstream</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">
+                https://github.com/trinhvanduong/mod_tz_flickrstream/archive/v1.0.zip
+            </downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <section>Updates</section>
+        <maintainer>TZFlickStream</maintainer>
+        <maintainerurl>https://github.com/trinhvanduong/mod_tz_flickrstream</maintainerurl>
+        <targetplatform name="joomla" version="3.[012345]"/>
+    </update>
+</updates>
