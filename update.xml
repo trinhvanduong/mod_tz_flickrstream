@@ -3,7 +3,7 @@
     <update>
         <name>TZFlickStream</name>
         <description>TZ Flick Stream Module</description>
-        <element>mod_tz_flickstream</element>
+        <element>TZ FLICK STREAM </element>
         <type>module</type>
         <version>1.1</version>
 
@@ -24,7 +24,7 @@
     <update>
         <name>TZFlickStream</name>
         <description>TZ Flick Stream Module</description>
-        <element>mod_tz_flickstream</element>
+        <element>TZ FLICK STREAM </element>
         <type>module</type>
         <version>1.0</version>
 
